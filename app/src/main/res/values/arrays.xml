@@ -1,0 +1,26 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+    <string-array name="list_entries">
+        <item>select 1</item>
+        <item>select 2</item>
+        <item>select 3</item>
+        <item>select 4</item>
+        <item>select 5</item>
+    </string-array>
+    <string-array name="list_values">
+        <item>solution 1</item>
+        <item>solution 2</item>
+        <item>solution 3</item>
+        <item>solution 4</item>
+        <item>solution 5</item>
+    </string-array>
+</resources>
